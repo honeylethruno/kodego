@@ -1,0 +1,28 @@
+* {
+    background-color:lightyellow;
+    color:purple;
+    margin:20px;
+}
+header {
+    text-align: center;
+    font-size: 20px;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Roboto Mono', monospace;
+    color:black;
+}
+h2{ 
+    font-family: 'Courier New', Courier, monospace;
+    color:pink;
+    text-decoration:underline;
+}
+table {
+    background-color:goldenrod;
+}
+.bgcolor:hover {
+    background-color: violet;
+}
+.bgcolor1:hover {
+    background-color:yellow;
+}
